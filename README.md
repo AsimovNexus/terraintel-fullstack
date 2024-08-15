@@ -1,0 +1,2 @@
+# terraintel-fullstack
+Junior Mining
